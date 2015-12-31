@@ -20,4 +20,4 @@ The algorithms were coded in python or matlab including:
  
  9.Regularized linear regression and bias-variance
  
- 10.Support Vector Machiness
+ 10.Support Vector Machines
